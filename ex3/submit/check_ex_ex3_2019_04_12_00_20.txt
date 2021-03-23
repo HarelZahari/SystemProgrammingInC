@@ -1,0 +1,52 @@
++-----------------------------------------------------------------------------------------------
+| Checking ex3 for submission 
++-----------------------------------------------------------------------------------------------
+| Step 1: checking partner file(s) 
+| Looking for partner id in file /home/harel.zahari/exercises/ex3/PARTNER ... 
+| You are submitting with naor.zaharia
+| Checking for partner validation in /home/naor.zaharia/exercises/ex3/PARTNER ...
+| Your partner naor.zaharia validates you as their partner
++-----------------------------------------------------------------------------------------------
+| Step 2: checking submission files and directories 
+| 
+| Required files:
+|   file list-readable-dirs.sh :  found!
+|   file num-readable-files.sh :  found!
+|   file last-updated.sh :  found!
+|   file count-items.sh :  found!
+|   file ex3.1.sh :  found!
+| No missing files!
+| 
+| Extra files:
+|    Extra file: .count-items.sh.swp
+|    Extra file: birthdays.txt
+|    Extra file: names1-4.txt
+|    Extra file: years40-59.txt
+|    Extra file: story.txt
+|    Extra file: submit/check_ex_ex3_2019_04_12_00_20.txt
+| Warning: Extra files will not be submitted!
++-----------------------------------------------------------------------------------------------
+| Step 3: testing your solution
+|   Testing command file ex3.1.sh
+|   V - Your file has exactly 6 lines, as required.
+|   V - line 1 is okay.
+|   V - line 2 is okay.
+|   V - line 3 is okay.
+|   V - line 4 is okay.
+|   V - line 5 is okay.
+|   V - line 6 is okay.
+|   Your solution to Problem 1 passed all tests.
+|   Testing Problem 2
+|   2.1 - script num-readable-files.sh is okay.
+|   2.2 - script list-readable-dirs.sh is okay.
+|   2.3 - script last-updated.sh is okay.
+|   Your solution to Problem 2 passed all tests.
+|   Testing Problem 3
+|   3 - script count-items.sh is okay.
+|   Your solution to Problem 3 passed all tests.
+|   Your submission passed all tests, guaranteeing you grade 80-100
+|
+| If you are ready for submission, execute:
+| ==> submit_ex ex3
+|
++-----------------------------------------------------------------------------------------------

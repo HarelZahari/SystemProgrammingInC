@@ -1,0 +1,52 @@
++-----------------------------------------------------------------------------------------------
+| Checking ex5 for submission 
++-----------------------------------------------------------------------------------------------
+| Step 1: checking partner file(s) 
+| Looking for partner id in file /home/harel.zahari/exercises/ex5/PARTNER ... 
+| You are submitting with naor.zaharia
+| Checking for partner validation in /home/naor.zaharia/exercises/ex5/PARTNER ...
+| Your partner naor.zaharia validates you as their partner
++-----------------------------------------------------------------------------------------------
+| Step 2: checking submission files and directories 
+| 
+| Required files:
+|   file intString.c :  found!
+|   file operationChain.c :  found!
+|   file intStringList.c :  found!
+| No missing files!
+| 
+| Extra files:
+|    Extra file: test_ex5_1_1
+|    Extra file: test_ex5_1_2
+|    Extra file: test_ex5_1_3
+|    Extra file: test_ex5_2_1
+|    Extra file: test_ex5_1_4
+|    Extra file: submit/check_ex_ex5_2019_06_02_14_17.txt
+| Warning: Extra files will not be submitted!
++-----------------------------------------------------------------------------------------------
+| Step 3: testing your solution
+|   Testing Problem 1
+|   Source file intString.c compiled with with 0 warnings.
+|   1_1 - passed all 8 tests on execution examples.
+|   1_2 - passed all 7 tests on execution examples.
+|   1_3 - passed all 7 tests on execution examples.
+|   1_4 - passed all 11 tests on execution examples.
+|   Your solution to Problem 1 passed all tests.
+|   Testing Problem 2
+|   Source file intString.c compiled with with 0 warnings.
+|   Source file intStringList.c compiled with with 0 warnings.
+|   2_1 - passed all 7 tests on execution examples.
+|   2_2 - passed all 11 tests on execution examples.
+|   2_3 - passed all 16 tests on execution examples.
+|   Your solution to Problem 2 passed all tests.
+|   Testing Problem 3
+|   Source file intString.c compiled with with 0 warnings.
+|   Source file intStringList.c compiled with with 0 warnings.
+|   Source file operationChain.c compiled with with 0 warnings.
+|   Your solution to Problem 3 passed all tests.
+|   Your submission passed all tests, guaranteeing you grade 70-100
+|
+| If you are ready for submission, execute:
+| ==> submit_ex ex5
+|
++-----------------------------------------------------------------------------------------------

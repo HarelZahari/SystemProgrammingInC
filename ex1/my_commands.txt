@@ -1,0 +1,10 @@
+mkdir dir1
+cp -R /share/ex_data/ex1/* dir1
+cp -r dir1 dir2
+cd dir2
+chmod -R ug+w ./
+mv subdir/myfile ./
+mv subdir/hello.world subdir/hello
+chmod -R 764 myfile
+rm -r subdir/
+echo jungun.kim >> myfile

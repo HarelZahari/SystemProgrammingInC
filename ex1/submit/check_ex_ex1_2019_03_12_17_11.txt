@@ -1,0 +1,39 @@
++-----------------------------------------------------------------------------------------------
+| Checking ex1 for submission 
++-----------------------------------------------------------------------------------------------
+| Step 1: checking partner file(s) 
+| Looking for partner id in file /home/harel.zahari/exercises/ex1/PARTNER ... 
+| You are submitting with naor.zaharia
+| Checking for partner validation in /home/naor.zaharia/exercises/ex1/PARTNER ...
+| Your partner naor.zaharia validates you as their partner
++-----------------------------------------------------------------------------------------------
+| Step 2: checking submission files and directories 
+| 
+| Required files:
+|   file my_commands.txt :  found!
+| No missing files!
+| 
+| Extra files:
+|    Extra file: submit/check_ex_ex1_2019_03_12_17_11.txt
+| Warning: Extra files will not be submitted!
++-----------------------------------------------------------------------------------------------
+| Step 3: testing your solution
+|   Testing command file my_commands.txt
+|   V - Your file has exactly 10 lines, as required.
+|   V - line 1 is okay.
+|   V - line 2 is okay.
+|   V - line 3 is okay.
+|   V - line 4 is okay.
+|   V - line 5 is okay.
+|   V - line 6 is okay.
+|   V - line 7 is okay.
+|   V - line 8 is okay.
+|   V - line 9 is okay.
+|   V - line 10 is okay.
+|   Your final script also passed the "ls -l ../dir* ../dir*/subdir" test specified in the assignment.
+|   Your submission passed all tests, guaranteeing you grade 80-100
+|
+| If you are ready for submission, execute:
+| ==> submit_ex ex1
+|
++-----------------------------------------------------------------------------------------------

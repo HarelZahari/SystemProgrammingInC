@@ -1,0 +1,17 @@
+Tests for printBigInt() function:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Creating BigInt object from string "0000009876543210" with full mantissa.
+printBigInt(bigInt,  1) prints "+9e9"
+printBigInt(bigInt,  3) prints "+9.87e9"
+printBigInt(bigInt, 12) prints "+9.87654321000e9"
+printBigInt(bigInt,  0) prints "+9.87654321e9"
+Creating BigInt object from string "-00000300000" with full mantissa.
+printBigInt(bigInt,  1) prints "-3e5"
+printBigInt(bigInt, 15) prints "-3.00000000000000e5"
+printBigInt(bigInt, -15) prints "-3e5"
+Creating BigInt object from string "-0000000000" with full mantissa.
+printBigInt(bigInt,  3) prints "+0.00—üe0"
+printBigInt(bigInt,  0) prints "+0e0"
+Making sure all allocations are clean before leaving: Allocated  0 bytes in  0 blocks in virtual stack.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

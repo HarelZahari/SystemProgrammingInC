@@ -1,0 +1,81 @@
++-----------------------------------------------------------------------------------------------
+| Checking ex6 for submission 
++-----------------------------------------------------------------------------------------------
+| Step 1: checking partner file(s) 
+| Looking for partner id in file /home/harel.zahari/exercises/ex6/PARTNER ... 
+| You are submitting with naor.zaharia
+| Checking for partner validation in /home/naor.zaharia/exercises/ex6/PARTNER ...
+| Your partner naor.zaharia validates you as their partner
++-----------------------------------------------------------------------------------------------
+| Step 2: checking submission files and directories 
+| 
+| Required files:
+|   file sortedBigIntList.c :  found!
+|   file sortNumbers.c :  found!
+|   file bigInt.c :  found!
+| No missing files!
+| 
+| Extra files:
+|    Extra file: test_ex6_1_4
+|    Extra file: test_ex6_1_5
+|    Extra file: test_ex6_1_3
+|    Extra file: sortedBigIntList.h
+|    Extra file: bigInt.h
+|    Extra file: virtualHeap.c
+|    Extra file: test_ex6_1_6
+|    Extra file: numbers.txt
+|    Extra file: test_ex6_1_2
+|    Extra file: sortNumbers
+|    Extra file: sortedBigIntList.o
+|    Extra file: test_ex6_1_7
+|    Extra file: fix
+|    Extra file: virtualHeap.h
+|    Extra file: submit/check_ex_ex6_2019_06_12_19_56.txt
+| Warning: Extra files will not be submitted!
++-----------------------------------------------------------------------------------------------
+| Step 3: testing your solution
+|   Testing Problem 1
+|   Source file bigInt.c compiled with with 0 warnings.
+|   1_1 - passed all 7 tests on execution examples.
+|   1_2 - passed all 7 tests on execution examples.
+|   1_3 - passed all 14 tests on execution examples.
+|   1_4 - your test produced different results than expected on 1 of the 10 execution examples.
+|   1_4 - expected results     vs.    your results:
+|        newBigInt("000900000001000",  3) results in new BigInt object |	newBigInt("000900000001000",  3) results in new BigInt object
+|   Comparison may be truncated. For a comprehensive comparison, you should run your code and compare with /share/ex_data/ex6/test_ex6_1_4.out
+|   1_5 - passed all 3 tests on execution examples.
+|   1_6 - passed all 9 tests on execution examples.
+|   1_7 - passed all 21 tests on execution examples.
+|   Tests found 1 errors in Problem 1, with 0 compilation warnings. Please correct and re-test.
+|   Testing Problem 2
+|    Source file sortedBigIntList.c is empty, so testing is skipped
+|   Testing Problem 3
+|   Source file bigInt.c compiled with with 0 warnings.
+|   Source file sortNumbers.c compiled with with 0 warnings.
+|   Testing input args '':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/no-file.txt -q':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -q  -p3':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -q  -x':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -r  -q':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -r3 -q':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -r -r':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -p2 -p2':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -r -p03':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -r -p100':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -p':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -r':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -p10':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -p10 -r':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -r -p1':  ==> RUNS AS EXPECTED !
+|   Testing input args '/share/ex_data/ex6/numbers.txt -p32':  ==> RUNS AS EXPECTED !
+|   Testing input args '-':  ==> RUNS AS EXPECTED !
+|   Testing input args '- -r':  ==> RUNS AS EXPECTED !
+|   Testing input args '- -p3 -r':  ==> RUNS AS EXPECTED !
+|   Your solution to Problem 3 passed all tests.
+|   Tests found errors in 1 items combined in Problems 1 - 3. Please correct and re-check.
+|
+| If you are ready for submission, execute:
+| ==> submit_ex ex6
+|
++-----------------------------------------------------------------------------------------------
